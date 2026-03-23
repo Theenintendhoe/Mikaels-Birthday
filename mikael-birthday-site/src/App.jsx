@@ -90,10 +90,11 @@ function App() {
             <p className="gift-label">Your Birthday Gift</p>
             <h2>Surprise!</h2>
             <p className="gift-text">
-              Your PSN gift card awaits, sea lion!</p>
+              Your PSN gift cards await, sea lion!</p>
             <div className="gift-code-box">
-              <span>PSN Gift Card:</span>
-              <strong>YOUR-GIFT-CARD-CODE-HERE</strong>
+              <span>PSN Gift Cards:</span>
+              <strong>MO5K-GP3P-IL9S</strong>
+              <strong>H6F2-K0Z9-JZK0</strong>
             </div>
           </div>
         </div>
